@@ -1,0 +1,10 @@
+.venv
+*.csv
+*.xlsx
+*.DS_Store
+MRI data
+Neurorad_Protokolle
+Results
+Template
+Contrastagent Prediction
+*.py
