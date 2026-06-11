@@ -57,7 +57,7 @@ Each model is evaluated both with and without RAG, and all are benchmarked again
 
 ## Requirements
 
-The code targets Python 3.10+. Core dependencies (see `requirements.txt` for pinned versions):
+The code targets Python 3.10-3.11. Core dependencies (see `requirements.txt` for pinned versions):
 
 - `pandas`, `numpy`, `scipy`, `statsmodels`, `scikit-learn` — data handling and statistics
 - `openai`, `replicate` — model inference
